@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.gold {
+    color:gold;
+    font-family: cursive;
+}
+
+.silver {
+    color:silver;
+    font-family: cursive;
+}
+
+#none{
+    background: none;
+    border: none;
+    font-size: 25px;
+}
+.bronze {
+    font-family: cursive;
+    color:#996633;
+    font-size: 25px;
+}
+
+#usrimg {
+    border-radius: 25px;
+}
+#user {
+    border-radius: 25px;
+}
+
+#person {
+    display: inline-block;
+}
+#percent {
+    display: inline-block;
+}
